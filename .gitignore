@@ -1,4 +1,7 @@
+.gitignore
 */*.txt
 */*.exe
-*/*.md
+*.txt
+*.exe
 .vscode
+Doxygen*
