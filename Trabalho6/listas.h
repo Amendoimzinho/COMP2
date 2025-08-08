@@ -62,7 +62,7 @@ class Fila {
         Head->dequeue_N(Head);
     }
 
-    T& peek () const {
+    T peek () const {
         return Head->getInfo();
     }
 
