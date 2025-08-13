@@ -17,4 +17,8 @@ int main() {
     F3->exibirInfo();
     F4->exibirInfo();
 
+    delete F1;
+    delete F2;
+    delete F3;
+    delete F4;
 }
